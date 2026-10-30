@@ -1,4 +1,4 @@
-package games;
+package practice;
 
 import java.util.Scanner;
 
